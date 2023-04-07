@@ -19,7 +19,7 @@ app.layout = html.Div([
     ]),
 
     dcc.Graph(id='graph-content')
-])
+], className='main')
 
 @callback(
     Output('graph-content', 'figure'),
