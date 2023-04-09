@@ -1,0 +1,42 @@
+[
+  {
+    "patientId": 1,
+    "percentage": 35.6
+  },
+  {
+    "patientId": 2,
+    "percentage": 42.9
+  },
+  {
+    "patientId": 3,
+    "percentage": 62.1
+  },
+  {
+    "patientId": 4,
+    "percentage": 12.3
+  },
+  {
+    "patientId": 5,
+    "percentage": 87.6
+  },
+  {
+    "patientId": 6,
+    "percentage": 54.2
+  },
+  {
+    "patientId": 7,
+    "percentage": 23.1
+  },
+  {
+    "patientId": 8,
+    "percentage": 65.8
+  },
+  {
+    "patientId": 9,
+    "percentage": 91.5
+  },
+  {
+    "patientId": 10,
+    "percentage": 37.2
+  }
+]

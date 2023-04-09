@@ -17,6 +17,7 @@ html, body {
     align-items: center;
     justify-content: center;
     border-bottom: 2px solid white;
+    z-index: 2;
 }
 
 .header h1 {
@@ -24,11 +25,13 @@ html, body {
 }
 
 .dropdowns {
+    position: absolute;
     display: flex;
     flex-direction: column;
     height: 100%;
     width: 200px;
     margin-left: 0;
+    margin-top: 0;
     background: black;
     border-left: 2px solid black;
     justify-content: center;
@@ -47,5 +50,5 @@ html, body {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate( -50%, -50%);
+    transform: translate( -30%, -47%);
 }
